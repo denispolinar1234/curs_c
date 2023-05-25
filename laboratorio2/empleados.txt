@@ -1,0 +1,26 @@
+*Datos del departamento y sus empleados* 
+------------------------------------------------------
+Departamento:DEPARTAMENTO DE VENTAS ----->||Siglas: DV
+------------------------------------------------------
+Lista de empleados: 
+
+Nombres: Withman Angel|| Apellidos: Ore Guzman|| Puesto: Limpieza|| Antiguedad: 5 años|| Sueldo: 2000
+
+Nombres: Jane|| Apellidos: Smith|| Puesto: Supervisor|| Antiguedad: 3 años|| Sueldo: 4000
+
+Nombres: David|| Apellidos: Johnson|| Puesto: Analista|| Antiguedad: 2 años|| Sueldo: 3500
+
+Nombres: Sarah|| Apellidos: Williams|| Puesto: Asistente|| Antiguedad: 1 año|| Sueldo: 2500
+
+Nombres: Michael|| Apellidos: Brown|| Puesto: Desarrollador|| Antiguedad: 4 años|| Sueldo: 4500
+
+Nombres: Jennifer|| Apellidos: Jones|| Puesto: Consultor|| Antiguedad: 6 años|| Sueldo: 5500
+
+Nombres: Robert|| Apellidos: Davis|| Puesto: Ejecutivo|| Antiguedad: 7 años|| Sueldo: 6000
+
+Nombres: Emily|| Apellidos: Taylor|| Puesto: Técnico|| Antiguedad: 2 años|| Sueldo: 3000
+
+Nombres: Daniel|| Apellidos: Anderson|| Puesto: Coordinador|| Antiguedad: 3 años|| Sueldo: 3800
+
+Nombres: Olivia|| Apellidos: Martinez|| Puesto: Ingeniero|| Antiguedad: 5 años|| Sueldo: 4800
+
