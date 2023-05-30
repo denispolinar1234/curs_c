@@ -1,0 +1,24 @@
+Servicio realizado:
+ID: 5
+Nombre: Planchado
+Servicio realizado:
+ID: 5
+Nombre: Planchado
+Servicio realizado:
+ID: 8
+Nombre: Bajada de motor
+Servicio realizado:
+ID: 4
+Nombre: Pintado
+Servicio realizado:
+ID: 2
+Nombre: Reparacion del vehiculo
+Servicio realizado:
+ID: 4
+Nombre: Pintado
+Servicio realizado:
+ID: 4
+Nombre: Pintado
+Servicio realizado:
+ID: 4
+Nombre: Pintado
